@@ -1,0 +1,245 @@
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7fa timestamp=   47197b334216e BG_STUCK_MSG: svc=4 type=4045 rank=18912 seq=357247 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15872  involves file=output/0591/serca.job0005.colvars.state involves file=output/0591/serca.job0005.colvars.state.old involves fd:/proc/67964/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a73d timestamp=   47197a0cb045c BG_STUCK_MSG: svc=4 type=4045 rank=30176 seq=357216 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15876  involves file=output/0943/serca.job0005.colvars.state involves file=output/0943/serca.job0005.colvars.state.old involves fd:/proc/67953/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7cb timestamp=   47197b1c66d86 BG_STUCK_MSG: svc=4 type=4045 rank=19968 seq=357243 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15108  involves file=output/0624/serca.job0005.colvars.state involves file=output/0624/serca.job0005.colvars.state.old involves fd:/proc/63334/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a795 timestamp=   47197b39fc87d BG_STUCK_MSG: svc=4 type=4045 rank=19008 seq=357234 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15160  involves file=output/0594/serca.job0005.colvars.state involves file=output/0594/serca.job0005.colvars.state.old involves fd:/proc/63438/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a879 timestamp=   47197b3ac544e BG_STUCK_MSG: svc=4 type=4045 rank=24256 seq=357272 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15168  involves file=output/0758/serca.job0005.colvars.state involves file=output/0758/serca.job0005.colvars.state.old involves fd:/proc/63454/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a75b timestamp=   4719814dd3a32 BG_STUCK_MSG: svc=4 type=4045 rank=20000 seq=357221 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15233  involves file=output/0625/serca.job0005.colvars.state involves file=output/0625/serca.job0005.colvars.state.old involves fd:/proc/64378/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a77f timestamp=   471987bd19c84 BG_STUCK_MSG: svc=4 type=4045 rank=26144 seq=357227 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15275  involves file=output/0817/serca.job0005.colvars.state involves file=output/0817/serca.job0005.colvars.state.old involves fd:/proc/64642/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7a3 timestamp=   4719846ebee8e BG_STUCK_MSG: svc=4 type=4045 rank=22720 seq=357233 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15808  involves file=output/0710/serca.job0005.colvars.state involves file=output/0710/serca.job0005.colvars.state.old involves fd:/proc/67517/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a765 timestamp=   4719836d16636 BG_STUCK_MSG: svc=4 type=4045 rank=25792 seq=357226 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15764  involves file=output/0806/serca.job0005.colvars.state involves file=output/0806/serca.job0005.colvars.state.old involves fd:/proc/67056/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7a9 timestamp=   47198373885a8 BG_STUCK_MSG: svc=4 type=4045 rank=24576 seq=357234 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15832  involves file=output/0768/serca.job0005.colvars.state involves file=output/0768/serca.job0005.colvars.state.old involves fd:/proc/67192/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7b5 timestamp=   47198a197511f BG_STUCK_MSG: svc=4 type=4045 rank=24608 seq=357236 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15827  involves file=output/0769/serca.job0005.colvars.state involves file=output/0769/serca.job0005.colvars.state.old involves fd:/proc/67610/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a726 timestamp=   4719899a1fd88 BG_STUCK_MSG: svc=4 type=4045 rank=26368 seq=357216 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=14834  involves file=output/0824/serca.job0005.colvars.state involves file=output/0824/serca.job0005.colvars.state.old involves fd:/proc/61371/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a810 timestamp=   471988910e8cc BG_STUCK_MSG: svc=4 type=4045 rank=19840 seq=357255 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=16266  involves file=output/0620/serca.job0005.colvars.state involves file=output/0620/serca.job0005.colvars.state.old involves fd:/proc/1594/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a81b timestamp=   47198123c74c7 BG_STUCK_MSG: svc=4 type=4045 rank=18720 seq=357253 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15917  involves file=output/0585/serca.job0005.colvars.state involves file=output/0585/serca.job0005.colvars.state.old involves fd:/proc/68054/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a704 timestamp=   4719800387539 BG_STUCK_MSG: svc=4 type=4045 rank=28960 seq=357206 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15932  involves file=output/0905/serca.job0005.colvars.state involves file=output/0905/serca.job0005.colvars.state.old involves fd:/proc/68065/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a79d timestamp=   471980044cbd5 BG_STUCK_MSG: svc=4 type=4045 rank=26016 seq=357232 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15966  involves file=output/0813/serca.job0005.colvars.state involves file=output/0813/serca.job0005.colvars.state.old involves fd:/proc/68133/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7ef timestamp=   471981071ee5a BG_STUCK_MSG: svc=4 type=4045 rank=23104 seq=357249 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15196  involves file=output/0722/serca.job0005.colvars.state involves file=output/0722/serca.job0005.colvars.state.old involves fd:/proc/63510/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a78c timestamp=   47198db94b3a4 BG_STUCK_MSG: svc=4 type=4045 rank=30240 seq=357233 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15285  involves file=output/0945/serca.job0005.colvars.state involves file=output/0945/serca.job0005.colvars.state.old involves fd:/proc/64662/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a67d timestamp=   47198431ea19b BG_STUCK_MSG: svc=4 type=4045 rank=12288 seq=357184 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13290  involves file=output/0384/serca.job0005.colvars.state involves file=output/0384/serca.job0005.colvars.state.old involves fd:/proc/51647/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20aa4f timestamp=   4719847e68811 BG_STUCK_MSG: svc=4 type=4045 rank=1056 seq=357347 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13521  involves file=output/0033/serca.job0005.colvars.state involves file=output/0033/serca.job0005.colvars.state.old involves fd:/proc/53237/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a66f timestamp=   4719849995e4d BG_STUCK_MSG: svc=4 type=4045 rank=14240 seq=357185 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13029  involves file=output/0445/serca.job0005.colvars.state involves file=output/0445/serca.job0005.colvars.state.old involves fd:/proc/50498/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7c4 timestamp=   471984cf16c6e BG_STUCK_MSG: svc=4 type=4045 rank=3328 seq=357238 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13229  involves file=output/0104/serca.job0005.colvars.state involves file=output/0104/serca.job0005.colvars.state.old involves fd:/proc/51930/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20aa7d timestamp=   47198494eabd2 BG_STUCK_MSG: svc=4 type=4045 rank=15872 seq=357358 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13370  involves file=output/0496/serca.job0005.colvars.state involves file=output/0496/serca.job0005.colvars.state.old involves fd:/proc/52605/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a624 timestamp=   471983c2cd4fa BG_STUCK_MSG: svc=4 type=4045 rank=9888 seq=357173 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13787  involves file=output/0309/serca.job0005.colvars.state involves file=output/0309/serca.job0005.colvars.state.old involves fd:/proc/54959/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a792 timestamp=   47198f98718d1 BG_STUCK_MSG: svc=4 type=4045 rank=26432 seq=357234 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=14788  involves file=output/0826/serca.job0005.colvars.state involves file=output/0826/serca.job0005.colvars.state.old involves fd:/proc/61279/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7aa timestamp=   47198e7455d5d BG_STUCK_MSG: svc=4 type=4045 rank=18880 seq=357238 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=16302  involves file=output/0590/serca.job0005.colvars.state involves file=output/0590/serca.job0005.colvars.state.old involves fd:/proc/1666/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a723 timestamp=   47198e7e91f89 BG_STUCK_MSG: svc=4 type=4045 rank=18752 seq=357215 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=16304  involves file=output/0586/serca.job0005.colvars.state involves file=output/0586/serca.job0005.colvars.state.old involves fd:/proc/1670/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a690 timestamp=   47198a16f48d1 BG_STUCK_MSG: svc=4 type=4045 rank=13504 seq=357191 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13292  involves file=output/0422/serca.job0005.colvars.state involves file=output/0422/serca.job0005.colvars.state.old involves fd:/proc/51651/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a62f timestamp=   47198a2b3d116 BG_STUCK_MSG: svc=4 type=4045 rank=12352 seq=357171 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13246  involves file=output/0386/serca.job0005.colvars.state involves file=output/0386/serca.job0005.colvars.state.old involves fd:/proc/51559/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20aa4f timestamp=   47198a74d0d9f BG_STUCK_MSG: svc=4 type=4045 rank=1888 seq=357347 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13042  involves file=output/0059/serca.job0005.colvars.state involves file=output/0059/serca.job0005.colvars.state.old involves fd:/proc/50216/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a623 timestamp=   47198a787da27 BG_STUCK_MSG: svc=4 type=4045 rank=14112 seq=357169 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=12953  involves file=output/0441/serca.job0005.colvars.state involves file=output/0441/serca.job0005.colvars.state.old involves fd:/proc/50346/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a6d2 timestamp=   47198a8e40516 BG_STUCK_MSG: svc=4 type=4045 rank=13152 seq=357202 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=12935  involves file=output/0411/serca.job0005.colvars.state involves file=output/0411/serca.job0005.colvars.state.old involves fd:/proc/50310/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a60e timestamp=   47198ac67ff20 BG_STUCK_MSG: svc=4 type=4045 rank=2304 seq=357165 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13259  involves file=output/0072/serca.job0005.colvars.state involves file=output/0072/serca.job0005.colvars.state.old involves fd:/proc/51990/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a692 timestamp=   47198acf3fd1e BG_STUCK_MSG: svc=4 type=4045 rank=7488 seq=357187 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13239  involves file=output/0234/serca.job0005.colvars.state involves file=output/0234/serca.job0005.colvars.state.old involves fd:/proc/51950/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20aa52 timestamp=   47198a98d8dc4 BG_STUCK_MSG: svc=4 type=4045 rank=14816 seq=357347 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13332  involves file=output/0463/serca.job0005.colvars.state involves file=output/0463/serca.job0005.colvars.state.old involves fd:/proc/52385/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20aa71 timestamp=   47198a7f29fbb BG_STUCK_MSG: svc=4 type=4045 rank=576 seq=357356 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13325  involves file=output/0018/serca.job0005.colvars.state involves file=output/0018/serca.job0005.colvars.state.old involves fd:/proc/52515/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syst
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a65f timestamp=   471989b3d41a3 BG_STUCK_MSG: svc=4 type=4045 rank=9824 seq=357179 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13805  involves file=output/0307/serca.job0005.colvars.state involves file=output/0307/serca.job0005.colvars.state.old involves fd:/proc/54995/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a84e timestamp=   471990be2396c BG_STUCK_MSG: svc=4 type=4045 rank=3520 seq=357261 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13205  involves file=output/0110/serca.job0005.colvars.state involves file=output/0110/serca.job0005.colvars.state.old involves fd:/proc/51882/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a672 timestamp=   4719907a612d3 BG_STUCK_MSG: svc=4 type=4045 rank=10080 seq=357186 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13035  involves file=output/0315/serca.job0005.colvars.state involves file=output/0315/serca.job0005.colvars.state.old involves fd:/proc/50510/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7d3 timestamp=   4719907dce443 BG_STUCK_MSG: svc=4 type=4045 rank=23552 seq=357241 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15780  involves file=output/0736/serca.job0005.colvars.state involves file=output/0736/serca.job0005.colvars.state.old involves fd:/proc/67461/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7aa timestamp=   47198f526a038 BG_STUCK_MSG: svc=4 type=4045 rank=25600 seq=357238 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15858  involves file=output/0800/serca.job0005.colvars.state involves file=output/0800/serca.job0005.colvars.state.old involves fd:/proc/67244/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7c1 timestamp=   47198f5b2fcb7 BG_STUCK_MSG: svc=4 type=4045 rank=24640 seq=357238 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15844  involves file=output/0770/serca.job0005.colvars.state involves file=output/0770/serca.job0005.colvars.state.old involves fd:/proc/67216/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a6ce timestamp=   47198f60034b5 BG_STUCK_MSG: svc=4 type=4045 rank=29696 seq=357197 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15804  involves file=output/0928/serca.job0005.colvars.state involves file=output/0928/serca.job0005.colvars.state.old involves fd:/proc/67136/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a875 timestamp=   4719947fe1711 BG_STUCK_MSG: svc=4 type=4045 rank=22784 seq=357268 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=16316  involves file=output/0712/serca.job0005.colvars.state involves file=output/0712/serca.job0005.colvars.state.old involves fd:/proc/1694/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7af timestamp=   4719947fe4ddf BG_STUCK_MSG: svc=4 type=4045 rank=22912 seq=357235 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=16312  involves file=output/0716/serca.job0005.colvars.state involves file=output/0716/serca.job0005.colvars.state.old involves fd:/proc/1686/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7ad timestamp=   47198cf0f4e56 BG_STUCK_MSG: svc=4 type=4045 rank=20032 seq=357238 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15118  involves file=output/0626/serca.job0005.colvars.state involves file=output/0626/serca.job0005.colvars.state.old involves fd:/proc/63354/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7a1 timestamp=   47198d0cb5682 BG_STUCK_MSG: svc=4 type=4045 rank=24128 seq=357236 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15114  involves file=output/0754/serca.job0005.colvars.state involves file=output/0754/serca.job0005.colvars.state.old involves fd:/proc/63346/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a76d timestamp=   471999a3946d1 BG_STUCK_MSG: svc=4 type=4045 rank=25184 seq=357224 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15255  involves file=output/0787/serca.job0005.colvars.state involves file=output/0787/serca.job0005.colvars.state.old involves fd:/proc/64602/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a786 timestamp=   471999af248b9 BG_STUCK_MSG: svc=4 type=4045 rank=29280 seq=357232 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15321  involves file=output/0915/serca.job0005.colvars.state involves file=output/0915/serca.job0005.colvars.state.old involves fd:/proc/64734/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a68a timestamp=   471996187069d BG_STUCK_MSG: svc=4 type=4045 rank=9216 seq=357190 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13300  involves file=output/0288/serca.job0005.colvars.state involves file=output/0288/serca.job0005.colvars.state.old involves fd:/proc/51667/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a666 timestamp=   4719968000724 BG_STUCK_MSG: svc=4 type=4045 rank=8992 seq=357184 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=12955  involves file=output/0281/serca.job0005.colvars.state involves file=output/0281/serca.job0005.colvars.state.old involves fd:/proc/50350/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a71f timestamp=   47199b851edbf BG_STUCK_MSG: svc=4 type=4045 rank=29632 seq=357211 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=14822  involves file=output/0926/serca.job0005.colvars.state involves file=output/0926/serca.job0005.colvars.state.old involves fd:/proc/61347/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a704 timestamp=   471993111416f BG_STUCK_MSG: svc=4 type=4045 rank=19872 seq=357206 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15901  involves file=output/0621/serca.job0005.colvars.state involves file=output/0621/serca.job0005.colvars.state.old involves fd:/proc/68022/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a714 timestamp=   47199fa5ba932 BG_STUCK_MSG: svc=4 type=4045 rank=26208 seq=357213 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15265  involves file=output/0819/serca.job0005.colvars.state involves file=output/0819/serca.job0005.colvars.state.old involves fd:/proc/64622/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a63e timestamp=   47199c481a0cb BG_STUCK_MSG: svc=4 type=4045 rank=8416 seq=357173 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13537  involves file=output/0263/serca.job0005.colvars.state involves file=output/0263/serca.job0005.colvars.state.old involves fd:/proc/53261/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-syste
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a803 timestamp=   47199c6eee2e2 BG_STUCK_MSG: svc=4 type=4045 rank=22528 seq=357249 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15812  involves file=output/0704/serca.job0005.colvars.state involves file=output/0704/serca.job0005.colvars.state.old involves fd:/proc/67525/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a69b timestamp=   4719a17813916 BG_STUCK_MSG: svc=4 type=4045 rank=29504 seq=357189 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=14818  involves file=output/0922/serca.job0005.colvars.state involves file=output/0922/serca.job0005.colvars.state.old involves fd:/proc/61339/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a7dc timestamp=   4719a06aa3cb8 BG_STUCK_MSG: svc=4 type=4045 rank=19904 seq=357242 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=16288  involves file=output/0622/serca.job0005.colvars.state involves file=output/0622/serca.job0005.colvars.state.old involves fd:/proc/1638/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a708 timestamp=   471997e291209 BG_STUCK_MSG: svc=4 type=4045 rank=25952 seq=357211 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=15980  involves file=output/0811/serca.job0005.colvars.state involves file=output/0811/serca.job0005.colvars.state.old involves fd:/proc/68161/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+DDR1 PHY was recalibrated(0): time taken = 212 usec. Previous cal was 318.7 seconds ago.
+The sysiod process seems to be stuck in a system call while running.  Flight log entry=  20a64b timestamp=   4719a25fce72e BG_STUCK_MSG: svc=4 type=4045 rank=12320 seq=357179 msglen=140 jobid=1137400 syscall slow for seconds=300 _serviceId=13529  involves file=output/0385/serca.job0005.colvars.state involves file=output/0385/serca.job0005.colvars.state.old involves fd:/proc/53245/fd/20->/gpfs/mira-fs1/projects/BioMolMach/avisek/mira/serca-project/pathway-all-atom-smwsot/E2P_and_E2-Pi/between_3B9B-system
+DDR1 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 280.3 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 211 usec. Previous cal was 244.0 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 201 usec. Previous cal was 331.2 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 202 usec. Previous cal was 206.4 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 205 usec. Previous cal was 289.0 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 195 usec. Previous cal was 1659.2 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 217 usec. Previous cal was 371.8 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 332.1 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 211 usec. Previous cal was 242.4 seconds ago.
+ND Receiver Link Error : C+ count=1272
+DDR1 PHY was recalibrated(0): time taken = 204 usec. Previous cal was 202.2 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 196 usec. Previous cal was 1226.1 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 202 usec. Previous cal was 804.3 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 203 usec. Previous cal was 207.4 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 199 usec. Previous cal was 306.0 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 211 usec. Previous cal was 315.2 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 193 usec. Previous cal was 351.1 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 212 usec. Previous cal was 227.9 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 193 usec. Previous cal was 1597.9 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 205 usec. Previous cal was 208.0 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 239.8 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 217 usec. Previous cal was 358.6 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 213 usec. Previous cal was 1565.7 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 200 usec. Previous cal was 384.5 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 199 usec. Previous cal was 316.4 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 214 usec. Previous cal was 235.2 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 193 usec. Previous cal was 1029.3 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 203 usec. Previous cal was 221.1 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 193 usec. Previous cal was 416.6 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 219 usec. Previous cal was 2033.9 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 207 usec. Previous cal was 230.3 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 212 usec. Previous cal was 200.6 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 192 usec. Previous cal was 203.5 seconds ago.
+DDR Correctable Error Summary : count=37255 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+L2 Directory Correctable Error Summary : count=4 slices=2 L2_INTERRUPT_STATE error status:  [COH_CE] Coherence directory SRAM array correctable error;
+DDR0 PHY was recalibrated(0): time taken = 203 usec. Previous cal was 211.1 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 201 usec. Previous cal was 337.5 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 211 usec. Previous cal was 219.2 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 374.7 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 776.4 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 216 usec. Previous cal was 508.6 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 213 usec. Previous cal was 226.2 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 200 usec. Previous cal was 216.9 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 204 usec. Previous cal was 208.5 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 416.4 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 212 usec. Previous cal was 208.5 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 193 usec. Previous cal was 231.2 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 210 usec. Previous cal was 217.4 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 198 usec. Previous cal was 397.7 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 396.4 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 204 usec. Previous cal was 349.6 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 213 usec. Previous cal was 2157.6 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 215 usec. Previous cal was 4032.3 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 200 usec. Previous cal was 2991.3 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 542.0 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 213 usec. Previous cal was 219.5 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 218 usec. Previous cal was 1992.6 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 200 usec. Previous cal was 221.1 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 205 usec. Previous cal was 3624.1 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 193 usec. Previous cal was 211.6 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 413.8 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 1892.8 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 219 usec. Previous cal was 985.1 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 196 usec. Previous cal was 3127.4 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 205 usec. Previous cal was 412.3 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 200 usec. Previous cal was 214.0 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 191 usec. Previous cal was 244.3 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 213 usec. Previous cal was 224.0 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 208 usec. Previous cal was 205.2 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 195 usec. Previous cal was 422.8 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 196 usec. Previous cal was 2443.0 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 199 usec. Previous cal was 318.9 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 218 usec. Previous cal was 571.4 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 193 usec. Previous cal was 1615.8 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 212 usec. Previous cal was 1534.8 seconds ago.
+DDR Correctable Error Summary : count=9010 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR0 PHY was recalibrated(0): time taken = 202 usec. Previous cal was 303.1 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 511.9 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 203 usec. Previous cal was 211.9 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 492.4 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 210 usec. Previous cal was 217.6 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 2486.5 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 198 usec. Previous cal was 237.4 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 2017.0 seconds ago.
+DDR Correctable Error Summary : count=64739 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR Maintenance Correctable Error Summary : count=1214 MCFIR error status:  [ECC_ERROR_COUNTER_THRESHOLD_REACHED] ;
+DDR Correctable Error Summary : count=7223 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+ND Receiver Link Error : D+ count=5203
+L1P Correctable Error Summary : count=130508 cores=0
+DDR Correctable Error Summary : count=10939 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+L1P Correctable Error Summary : count=55 cores=1
+L2 Array Correctable Error Summary : count=3 slices=14 L2_INTERRUPT_STATE error status:  [EDR_CE] eDRAM correctable error;
+L1P Correctable Error Summary : count=375 cores=9
+ND Receiver Link Error : D+ count=19283
+DDR Correctable Error Summary : count=34828 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR Maintenance Correctable Error Summary : count=7816 MCFIR error status:  [ECC_ERROR_COUNTER_THRESHOLD_REACHED] ;
+L1P Correctable Error Summary : count=7 core=8 L1P_ESR : [ERR_RELOAD_ECC_X2] correctable reload data ECC error;
+ND Receiver Link Error : D+ count=4868
+L1P Correctable Error Summary : count=11 cores=6
+DDR Correctable Error Summary : count=19874 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR Maintenance Correctable Error Summary : count=7070 MCFIR error status:  [ECC_ERROR_COUNTER_THRESHOLD_REACHED] ;
+L1P Correctable Error Summary : count=16130 cores=8
+DDR Correctable Error Summary : count=38870 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR Correctable Error Summary : count=19634 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+ND Receiver Link Error : E- count=1033
+ND Receiver Link Error : E- count=202
+ND Receiver Link Error : D+ count=1972
+ND Receiver Link Error : E- count=1366
+DDR Correctable Error Summary : count=8901 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+ND Receiver Link Error : D+ count=16559
+L1P Correctable Error Summary : count=2733 cores=2
+ND Receiver Link Error : D+ count=5283
+DDR Maintenance Correctable Error Summary : count=633 MCFIR error status:  [POWERBUS_WRITE_BUFFER_CE] This bit is set when a PBUS ECC CE is detected on a PBus write buffer read op;
+L1P Correctable Error Summary : count=4686 cores=0
+ND Receiver Link Error : D+ count=4643
+DDR Correctable Error Summary : count=56445 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR1 PHY was recalibrated(0): time taken = 214 usec. Previous cal was 1242.4 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 426.1 seconds ago.
+DDR Correctable Error Summary : count=7386 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR Correctable Error Summary : count=2957 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR0 PHY was recalibrated(0): time taken = 212 usec. Previous cal was 352.2 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 200 usec. Previous cal was 368.2 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 199 usec. Previous cal was 200.6 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 210 usec. Previous cal was 223.9 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 196 usec. Previous cal was 454.7 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 201 usec. Previous cal was 553.3 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 195 usec. Previous cal was 287.9 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 211 usec. Previous cal was 223.8 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 411.2 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 207.2 seconds ago.
+DDR Correctable Error Summary : count=6508 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR0 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 450.1 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 196 usec. Previous cal was 211.8 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 191 usec. Previous cal was 222.3 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 200 usec. Previous cal was 356.2 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 551.4 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 200 usec. Previous cal was 4954.8 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 202 usec. Previous cal was 328.7 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 197 usec. Previous cal was 215.1 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 193 usec. Previous cal was 599.6 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 193 usec. Previous cal was 201.7 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 213 usec. Previous cal was 201.0 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 195 usec. Previous cal was 1929.1 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 227.2 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 212 usec. Previous cal was 255.6 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 195 usec. Previous cal was 227.3 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 213 usec. Previous cal was 1791.1 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 199 usec. Previous cal was 222.7 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 192 usec. Previous cal was 209.2 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 192 usec. Previous cal was 420.5 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 198 usec. Previous cal was 4862.7 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 200 usec. Previous cal was 388.4 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 208 usec. Previous cal was 227.2 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 266.5 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 195 usec. Previous cal was 971.5 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 212 usec. Previous cal was 221.2 seconds ago.
+DDR Correctable Error Summary : count=20949 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR Correctable Error Summary : count=17189 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR1 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 296.8 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 194 usec. Previous cal was 417.4 seconds ago.
+DDR1 PHY was recalibrated(0): time taken = 214 usec. Previous cal was 1561.8 seconds ago.
+DDR0 PHY was recalibrated(0): time taken = 192 usec. Previous cal was 1635.5 seconds ago.
+DDR Correctable Error Summary : count=4085 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR Correctable Error Summary : count=56159 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+L1P Correctable Error Summary : count=8 cores=12
+DDR Maintenance Correctable Error Summary : count=92 MCFIR error status:  [POWERBUS_WRITE_BUFFER_CE] This bit is set when a PBUS ECC CE is detected on a PBus write buffer read op;
+L1P Correctable Error Summary : count=1362 cores=0
+L2 Array Correctable Error Summary : count=37 slices=0 L2_INTERRUPT_STATE error status:  [EDR_CE] eDRAM correctable error;
+ND Receiver Link Error : E- count=2905
+DDR Maintenance Correctable Error Summary : count=1335 MCFIR error status:  [POWERBUS_WRITE_BUFFER_CE] This bit is set when a PBUS ECC CE is detected on a PBus write buffer read op;
+L1P Correctable Error Summary : count=1952 cores=0
+L2 Array Correctable Error Summary : count=11 slices=8 L2_INTERRUPT_STATE error status:  [EDR_CE] eDRAM correctable error;
+L1P Correctable Error Summary : count=343 cores=7
+L1P Correctable Error Summary : count=399 cores=2
+L2 Array Correctable Error Summary : count=3 slices=13 L2_INTERRUPT_STATE error status:  [EDR_CE] eDRAM correctable error;
+DDR Correctable Error Summary : count=64964 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+DDR Correctable Error Summary : count=5607 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+L1P Correctable Error Summary : count=30 cores=1
+L1P Correctable Error Summary : count=593 cores=0
+L1P Correctable Error Summary : count=58 core=3 L1P_ESR : [ERR_RELOAD_ECC_X2] correctable reload data ECC error;
+L2 Array Correctable Error Summary : count=3 slices=15 L2_INTERRUPT_STATE error status:  [EDR_CE] eDRAM correctable error;
+DDR Correctable Error Summary : count=40654 MCFIR error status:  [MEMORY_CE] This bit is set when a memory CE is detected on a non-maintenance memory read op;
+L1P Correctable Error Summary : count=50 cores=2
+ND Receiver Link Error : D+ count=634
