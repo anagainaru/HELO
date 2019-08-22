@@ -1,17 +1,15 @@
-HELO (Hierarchical Event Log Organiser) 
-version 2.1 (2010.06.13)
+# HELO (Hierarchical Event Log Organiser) 
+
+*version 2.1 (2010.06.13)*
+
 The tool represents a C algorithm for log file message classification
 
-Created by
-Ana Gainaru
 
-Advisors: Franck Cappello, Stefan Trausan-Matu, Bill Kramer
-
- (C) 2010 by UIUC, INRIA, NCSA, UPB.
+(C) 2019 by UIUC, INRIA, NCSA, UPB.
 See COPYRIGHT in top-level directory.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Description:
+
+## Description
 
 This tool classifies log messages considering their description. A log message contains constands and variables ("Accepted publickey for ip 123.456.123.456" contains 4 constants "Accepted", "publickey", "for", "ip" and one variable "123.456.123.456"). HELO is used to cluster messages that have the same constant words. 
 It uses a 2 step hierarchical clustering process: 
@@ -80,8 +78,7 @@ added d+ subnets and 409600 addresses to db
 address parity check.*
 data tlb error interrupt
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Input file:
+## Input file
 
 HELO workes on log message descriptions so it assumes words can be separated from each other by a unique delimiter. The default is " ", however, this can be changed from group.c (line 89):
 static char DELIM[1] = " ";
@@ -97,20 +94,19 @@ Example of an invalid entries:
 38594712,Software_Error,CIOS,WARN,2015-04-03-06.25.36.732273,The sysiod process seems to be stuck in a system call while running.
 For this entrie to become valid, one can either transform all "," to " " (vim %s/,/ /g) or extract the log description from the entry (cut -d"," -f6)
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Usage:
+## Usage
 
 To compile the sources type in command line :
-
+```
 	make
-
+```
 To run the clustering tool:
-
+```
 	./group [options] file_name
 	The input file used by the program is named {file_name}_l0c0 and is located in the output folder.
-
+```
 Options:
-
+```
 	 -g{cluster_goodness} 
 	Gives cluster goodness threshold between 0 and 100 (default value 40)
 
@@ -122,18 +118,19 @@ Options:
 
 	 -f {level} {nr_clusters}
 	Creates the description for all clusters found in the following files output/{file_name}_l{level}c{i} with i=0..nr_clusters-1
-
+```
 Execution example:
-	./group -g50 -m4 test 
+```
+        ./group -g50 -m4 test 
 	./group -m0 -l 2 10 test
 
-
+```
 To delete the executable and all unnecessary files type:
-
+```
 	make clean
+```
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Reference paper:
+## Reference paper
 
 Ana Gainaru, Franck Cappello, Stefan Trausan-Matu, Bill Kramer - "Event log mining tool for large scale HPC systems", Euro-Par'11 Proceedings of the 17th international conference on Parallel processing - Volume Part I, Pages 52-64
 
@@ -150,8 +147,4 @@ Ana Gainaru, Franck Cappello, Stefan Trausan-Matu, Bill Kramer - "Event log mini
   crossref  = {DBLP:conf/europar/2011-1},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-If you have any questions or comments, please send a mail at againaru@illinois.edu
 
