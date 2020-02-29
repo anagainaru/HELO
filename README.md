@@ -2,13 +2,6 @@
 
 *version 2.1 (2010.06.13)*
 
-The tool represents a C algorithm for log file message classification
-
-
-(C) 2019 by UIUC, INRIA, NCSA, UPB.
-See COPYRIGHT in top-level directory.
-
-
 ## Description
 
 This tool classifies log messages considering their description. A log message contains constands and variables ("Accepted publickey for ip 123.456.123.456" contains 4 constants "Accepted", "publickey", "for", "ip" and one variable "123.456.123.456"). HELO is used to cluster messages that have the same constant words. 
@@ -120,7 +113,8 @@ Options:
 	Creates the description for all clusters found in the following files output/{file_name}_l{level}c{i} with i=0..nr_clusters-1
 ```
 Execution example:
-```
+```	
+	make run
         ./group -g50 -m4 test 
 	./group -m0 -l 2 10 test
 
@@ -132,8 +126,9 @@ To delete the executable and all unnecessary files type:
 
 ## Reference paper
 
-Ana Gainaru, Franck Cappello, Stefan Trausan-Matu, Bill Kramer - "Event log mining tool for large scale HPC systems", Euro-Par'11 Proceedings of the 17th international conference on Parallel processing - Volume Part I, Pages 52-64
+Ana Gainaru, Franck Cappello, Stefan Trausan-Matu, Bill Kramer - "Event log mining tool for large scale HPC systems", Euro-Par'11 Proceedings of the 17th international conference on Parallel processing - Volume Part I, Pages 52-64, 2011
 
+```
 @inproceedings{DBLP:conf/europar/GainaruCTK11,
   author    = {Ana Gainaru and
                Franck Cappello and
@@ -147,4 +142,4 @@ Ana Gainaru, Franck Cappello, Stefan Trausan-Matu, Bill Kramer - "Event log mini
   crossref  = {DBLP:conf/europar/2011-1},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
-
+```
